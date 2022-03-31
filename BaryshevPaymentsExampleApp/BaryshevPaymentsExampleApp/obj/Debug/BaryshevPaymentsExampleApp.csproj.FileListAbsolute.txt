@@ -1,0 +1,15 @@
+C:\Users\student\source\repos\BaryshevPaymentsExampleApp\BaryshevPaymentsExampleApp\bin\Debug\BaryshevPaymentsExampleApp.exe.config
+C:\Users\student\source\repos\BaryshevPaymentsExampleApp\BaryshevPaymentsExampleApp\bin\Debug\BaryshevPaymentsExampleApp.exe
+C:\Users\student\source\repos\BaryshevPaymentsExampleApp\BaryshevPaymentsExampleApp\bin\Debug\BaryshevPaymentsExampleApp.pdb
+C:\Users\student\source\repos\BaryshevPaymentsExampleApp\BaryshevPaymentsExampleApp\obj\Debug\BaryshevPaymentsExampleApp.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\BaryshevPaymentsExampleApp\BaryshevPaymentsExampleApp\obj\Debug\MainWindow.g.cs
+C:\Users\student\source\repos\BaryshevPaymentsExampleApp\BaryshevPaymentsExampleApp\obj\Debug\App.g.cs
+C:\Users\student\source\repos\BaryshevPaymentsExampleApp\BaryshevPaymentsExampleApp\obj\Debug\BaryshevPaymentsExampleApp_MarkupCompile.cache
+C:\Users\student\source\repos\BaryshevPaymentsExampleApp\BaryshevPaymentsExampleApp\obj\Debug\BaryshevPaymentsExampleApp_MarkupCompile.lref
+C:\Users\student\source\repos\BaryshevPaymentsExampleApp\BaryshevPaymentsExampleApp\obj\Debug\MainWindow.baml
+C:\Users\student\source\repos\BaryshevPaymentsExampleApp\BaryshevPaymentsExampleApp\obj\Debug\BaryshevPaymentsExampleApp.g.resources
+C:\Users\student\source\repos\BaryshevPaymentsExampleApp\BaryshevPaymentsExampleApp\obj\Debug\BaryshevPaymentsExampleApp.Properties.Resources.resources
+C:\Users\student\source\repos\BaryshevPaymentsExampleApp\BaryshevPaymentsExampleApp\obj\Debug\BaryshevPaymentsExampleApp.csproj.GenerateResource.cache
+C:\Users\student\source\repos\BaryshevPaymentsExampleApp\BaryshevPaymentsExampleApp\obj\Debug\BaryshevPaymentsExampleApp.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\BaryshevPaymentsExampleApp\BaryshevPaymentsExampleApp\obj\Debug\BaryshevPaymentsExampleApp.exe
+C:\Users\student\source\repos\BaryshevPaymentsExampleApp\BaryshevPaymentsExampleApp\obj\Debug\BaryshevPaymentsExampleApp.pdb
